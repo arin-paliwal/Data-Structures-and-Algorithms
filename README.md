@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-This Repository contains codes I solve using practicing DSA (through Java). These codes are easy to understand and are well arranged.
+This Repository contains codes I solve using practicing DSA and I am using for preparing for my interviews. These codes are easy to understand and are well arranged.
 
 Use these changes to commit
 - 1. Added in Java
