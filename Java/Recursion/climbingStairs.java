@@ -14,7 +14,8 @@ public class climbingStairs {
         }
 
         public static void main(String[] args) {
-            int n = 4;
+            int n;
+            n=4;
             System.out.println(climbingStairs.findWays(n));
         }
     }
