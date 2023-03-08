@@ -24,7 +24,7 @@ class koko_eating_bananas {
     }
 
     public static int minEatingSpeed(int[] piles, int h) {
-        int ans = 0, low = 1, high = 0, n = piles.length;
+        int ans = 0, low = 1, high = 0;
         for (int i : piles)
             if (i > high)
                 high = i;
